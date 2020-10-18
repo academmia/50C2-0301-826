@@ -1,0 +1,6 @@
+{
+    "nav.home": "Home",
+    "nav.profile": "Profile",
+    "nav.app-settings": "App Settings",
+    "footer.desc": "<app>Taskker</app> - <desc>Task Management System</desc>"
+}
